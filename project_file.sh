@@ -6,4 +6,3 @@ sleep $((RANDOM % 10 + 1))
 
 
 # Testing POC...
-echo " ${component} done"
